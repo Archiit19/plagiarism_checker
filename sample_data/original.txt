@@ -1,0 +1,2 @@
+Artificial intelligence is transforming the world by automating tasks, improving decision-making, and enabling new innovations. 
+Machine learning, a subset of AI, allows computers to learn from data and improve over time without being explicitly programmed.
